@@ -38,3 +38,5 @@ Once the database is created, you can query it using the `query.py` script. This
 python query.py <db_directory> <query_text>
 ```
 
+## Example 
+![](image.png)
