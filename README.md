@@ -23,8 +23,6 @@ pip install -r requirements.txt
 
 To create a vector database from your documents, use the `create_db.py` script. This script will process all `.txt` files in a given directory, chunk the content, and store it in a Chroma database for fast retrieval.
 
-Run the following command:
-
 ```bash
 python create_db.py <text_directory> <db_directory>
 ```
@@ -35,7 +33,6 @@ python create_db.py <text_directory> <db_directory>
 
 Once the database is created, you can query it using the `query.py` script. This script takes a query text, retrieves the relevant documents from the Chroma database, and generates a response based on the context.
 
-To run the query, use the following command:
 
 ```bash
 python query.py <db_directory> <query_text>
