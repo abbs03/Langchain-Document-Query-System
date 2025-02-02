@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-openai
+openai
+huggingface_hub
+python-dotenv
+argparse
