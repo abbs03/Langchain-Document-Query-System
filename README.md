@@ -39,4 +39,5 @@ python query.py <db_directory> <query_text>
 ```
 
 ## Example 
+The source text data: [link](https://github.com/philschatz/biology-book/tree/master).
 ![](image.png)
