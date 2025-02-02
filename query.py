@@ -25,7 +25,7 @@ Answer the question based only on the following context:
 
 ---
 
-useing the above context answer the following question: {prompt}
+useing the above context answer the following question: {question}
 """
 
 
